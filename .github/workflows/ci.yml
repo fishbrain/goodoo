@@ -25,7 +25,7 @@ jobs:
     name: elixir-${{ matrix.pair.elixir }}-otp-${{ matrix.pair.otp }}
 
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v4
 
     - uses: erlef/setup-elixir@v1
       with:

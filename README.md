@@ -1,3 +1,7 @@
+**This project is no longer maintained.** Feel free to fork it if you want to maintain your own version!
+
+---
+
 # Goodoo
 
 Goodoo is a simple, robust, and highly customizable health check solution written in Elixir.
